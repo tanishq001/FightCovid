@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FightCovid</string>
+    <string name="email">Enter Your Email</string>
+    <string name="pass">Enter Your Password</string>
+    <string name="SignUp">New Account</string>
+    <string name="loginButton">Login</string>
+    <string name="page_title">Fight Covid</string>
+    <string name="search">search</string>
+    <string name="content_description_search">Search</string>
+    <string name="text_label_1">My Help request</string>
+    <string name="text_label_2">Other\'s Help Request</string>
+    <string name="header_title">Name</string>
+    <string name="header_text">Phone Number</string>
+    <string name="plasmadonor">Register as Plasma Donor</string>
+    <string name="foodcontributor">Food Contributor</string>
+    <string name="medicineprovider">Medicine Provider</string>
+    <string name="volunteerwithvehicle">Volunteer with vehicle</string>
+    <string name="otherhelps">Other Helps</string>
+    <string name="plasma">Plasma</string>
+    <string name="food">Food</string>
+    <string name="medicine">Medicine</string>
+    <string name="cancel">Close</string>
+    <string name="list_of_helps">List of Helps</string>
+    <string name="description">Your feedback helps make Jetpack better. Let us know if you discover new issues or have ideas for improving this library. Please take a look at the existing issues in this library before you create a new one. You can add your vote to an existing issue by clicking the star button.</string>
+    <string name="message">Message</string>
+    <string name="share">Share</string>
+    <string name="pending">Pending</string>
+    <string name="address">Jaipur | Rajasthan</string>
+    <string name="ronak_gupta">Ronak Gupta</string>
+    <string name="or">Or</string>
+    <string name="date">At 23 June 2021</string>
+    <string name="adddes">Enter Description of Request</string>
+    <string name="close">Close Box</string>
+    <string name="add_location">Add Location</string>
+    <string name="post">Post</string>
+    <string name="fab_content_desc">Add Request</string>
+</resources>

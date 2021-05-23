@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/want_to_help"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/subtitle"
+            android:title="@string/list_of_helps">
+            <menu>
+        <item
+            android:id="@+id/item1"
+            android:icon="@drawable/outline_bloodtype_24"
+            android:title="@string/plasma"
+            />
+        <item
+            android:id="@+id/item2"
+            android:icon="@drawable/outline_fastfood_24"
+            android:title="@string/food" />
+        <item
+            android:id="@+id/item3"
+            android:icon="@drawable/outline_local_pharmacy_24"
+            android:title="@string/medicine" />
+        <item
+            android:id="@+id/item4"
+            android:icon="@drawable/outline_two_wheeler_20"
+            android:title="@string/volunteerwithvehicle" />
+        <item
+            android:id="@+id/item5"
+            android:icon="@drawable/outline_volunteer_activism_20"
+            android:title="@string/otherhelps" />
+                <item
+                    android:id="@+id/close"
+                    android:icon="@drawable/ic_baseline_cancel_24"
+                    android:title="@string/cancel" />
+            </menu>
+        </item>
+    </group>
+
+</menu>

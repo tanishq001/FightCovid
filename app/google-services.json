@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600611008775",
+    "project_id": "fightcovid-df7ab",
+    "storage_bucket": "fightcovid-df7ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600611008775:android:1d17144b694998193195a2",
+        "android_client_info": {
+          "package_name": "com.example.fightcovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600611008775-gbsogdpbg0b05odc559fqciuf5ogk7q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQyKDwu7uIIxzZDkzpZH5SN6DA4PZW6AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600611008775-gbsogdpbg0b05odc559fqciuf5ogk7q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
